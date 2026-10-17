@@ -1,0 +1,51 @@
+Do the following in hadoop with the use of java:
+
+PageRank is a function that assigns a real number to each page in the Web. A page with a higher PageRank value will be considered as a more important page. Implement two variants of the PageRank algorithm:
+a) idealized PageRank (Section 5.1.2)
+b) PageRank with taxation (Section 5.1.5)
+
+Pass the following hadoop properties to the application:
+• N - the number of records in the dataset
+• K - the number of iterations (use K=10 for testing)
+• B - a chosen constant (use B=0.8 for testing)
+
+Datasets:
+links.txt (/user/adampap/wikiSmall):
+A: B C D
+B: A D
+C: A
+D: B C
+
+deadEnds.txt (/user/adampap/wikiDeadEnds):
+A: B C D
+B: A D
+C:
+D: B C
+
+spiderTraps.txt (/user/adampap/wikiSpiderTraps):
+A: B C D
+B: A D
+C: C
+D: B C
+
+The structure of the datasets is as follows. There is one line for each page that has forward links. The format of the lines is:
+from1: to11 to12 to13 ...
+from2: to21 to22 to23 ...
+where from1 is an integer labeling a page that has links from it, and to11 to12 to13 ... are integers labeling all the pages that the page links to.
+
+
+Outputs after 3rd iteration:
+deadEnds.txt:
+A 0.07291667 B C D
+B 0.107638896 A D
+C 0.107638896
+D 0.107638896 B C
+
+spiderTraps.txt:
+A 0.07291667 B C D
+B 0.107638896 A D
+C 0.7118056 C
+D 0.107638896 B C
+
+
+
