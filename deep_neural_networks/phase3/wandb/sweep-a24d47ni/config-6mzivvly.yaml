@@ -1,0 +1,18 @@
+wandb_version: 1
+
+batch_size:
+  value: 64
+dense_units:
+  value: 128
+dropout:
+  value: 0.4708089116396399
+epochs:
+  value: 15
+learning_rate:
+  value: 0.002803206362825291
+optimizer:
+  value: rmsprop
+rotation_range:
+  value: 6
+zoom_range:
+  value: 0.0054874196433883915

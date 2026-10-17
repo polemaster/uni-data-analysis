@@ -1,0 +1,11 @@
+{
+    "learning_rate": 0.001,
+    "optimizer": "adam",
+    "loss_function": "categorical_crossentropy",
+    "batch_size": 128,
+    "epochs": 20,
+    "rotation_range": 10,
+    "zoom_range": 0.1,
+    "width_shift_range": 0.1,
+    "height_shift_range": 0.1
+}

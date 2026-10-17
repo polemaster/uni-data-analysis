@@ -1,0 +1,63 @@
+Epoch 1/15
+[1m428/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 17ms/step - accuracy: 0.5294 - loss: 1.7072
+Epoch 1: val_accuracy improved from None to 0.74010, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m14s[0m 23ms/step - accuracy: 0.7246 - loss: 0.9021 - val_accuracy: 0.7401 - val_loss: 0.8051 - learning_rate: 0.0038
+Epoch 2/15
+[1m426/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9142 - loss: 0.2789
+Epoch 2: val_accuracy improved from 0.74010 to 0.86433, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9290 - loss: 0.2310 - val_accuracy: 0.8643 - val_loss: 0.4463 - learning_rate: 0.0038
+Epoch 3/15
+[1m424/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9514 - loss: 0.1604
+Epoch 3: val_accuracy improved from 0.86433 to 0.96877, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 10ms/step - accuracy: 0.9555 - loss: 0.1495 - val_accuracy: 0.9688 - val_loss: 0.0890 - learning_rate: 0.0038
+Epoch 4/15
+[1m425/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9655 - loss: 0.1194
+Epoch 4: val_accuracy did not improve from 0.96877
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9686 - loss: 0.1059 - val_accuracy: 0.9431 - val_loss: 0.2113 - learning_rate: 0.0038
+Epoch 5/15
+[1m424/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9721 - loss: 0.0966
+Epoch 5: val_accuracy improved from 0.96877 to 0.98062, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9740 - loss: 0.0867 - val_accuracy: 0.9806 - val_loss: 0.0562 - learning_rate: 0.0038
+Epoch 6/15
+[1m425/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9795 - loss: 0.0737
+Epoch 6: val_accuracy did not improve from 0.98062
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9803 - loss: 0.0702 - val_accuracy: 0.9791 - val_loss: 0.0737 - learning_rate: 0.0038
+Epoch 7/15
+[1m425/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9822 - loss: 0.0621
+Epoch 7: val_accuracy improved from 0.98062 to 0.98996, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9813 - loss: 0.0622 - val_accuracy: 0.9900 - val_loss: 0.0386 - learning_rate: 0.0038
+Epoch 8/15
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 9ms/step - accuracy: 0.9849 - loss: 0.0480
+Epoch 8: val_accuracy did not improve from 0.98996
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9853 - loss: 0.0521 - val_accuracy: 0.9794 - val_loss: 0.0701 - learning_rate: 0.0038
+Epoch 9/15
+[1m427/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9837 - loss: 0.0511
+Epoch 9: val_accuracy improved from 0.98996 to 0.99526, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9856 - loss: 0.0497 - val_accuracy: 0.9953 - val_loss: 0.0125 - learning_rate: 0.0038
+Epoch 10/15
+[1m426/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9855 - loss: 0.0432
+Epoch 10: val_accuracy did not improve from 0.99526
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 10ms/step - accuracy: 0.9874 - loss: 0.0398 - val_accuracy: 0.9897 - val_loss: 0.0365 - learning_rate: 0.0038
+Epoch 11/15
+[1m424/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9879 - loss: 0.0392
+Epoch 11: val_accuracy did not improve from 0.99526
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9881 - loss: 0.0406 - val_accuracy: 0.9823 - val_loss: 0.0547 - learning_rate: 0.0038
+Epoch 12/15
+[1m427/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9933 - loss: 0.0213
+Epoch 12: val_accuracy improved from 0.99526 to 0.99721, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 10ms/step - accuracy: 0.9943 - loss: 0.0183 - val_accuracy: 0.9972 - val_loss: 0.0090 - learning_rate: 0.0019
+Epoch 13/15
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 9ms/step - accuracy: 0.9955 - loss: 0.0156
+Epoch 13: val_accuracy improved from 0.99721 to 0.99805, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 10ms/step - accuracy: 0.9961 - loss: 0.0124 - val_accuracy: 0.9980 - val_loss: 0.0074 - learning_rate: 0.0019
+Epoch 14/15
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 9ms/step - accuracy: 0.9967 - loss: 0.0100
+Epoch 14: val_accuracy did not improve from 0.99805
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9964 - loss: 0.0118 - val_accuracy: 0.9979 - val_loss: 0.0055 - learning_rate: 0.0019
+Epoch 15/15
+[1m428/429[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 9ms/step - accuracy: 0.9972 - loss: 0.0083
+Epoch 15: val_accuracy improved from 0.99805 to 0.99875, saving model to model-sy0zmjzq.keras
+[1m429/429[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 9ms/step - accuracy: 0.9970 - loss: 0.0092 - val_accuracy: 0.9987 - val_loss: 0.0038 - learning_rate: 0.0019
+Evaluating on Custom Test Set
+[1m3/3[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 666ms/step - accuracy: 0.4421 - loss: 6.6992
+Uploading model with accuracy 0.9987451434135437

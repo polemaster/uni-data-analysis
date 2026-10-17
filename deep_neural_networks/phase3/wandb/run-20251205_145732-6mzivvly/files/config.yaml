@@ -1,0 +1,81 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            c7ptguv8wlkb0bc5r7ice8d2y0j5o8y5:
+                codePath: sweep_runner.py
+                codePathLocal: sweep_runner.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "1022042832896"
+                        used: "318599905280"
+                email: sherlock73937@gmail.com
+                executable: /home/polemaster/uni/semester7/dnn/phase3/venv/bin/python
+                gpu: NVIDIA GeForce RTX 4060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA GeForce RTX 4060 Laptop GPU
+                      uuid: GPU-b8f70d62-0630-28ad-af01-90b67c2521f9
+                host: omarchy
+                memory:
+                    total: "32787951616"
+                os: Linux-6.17.7-arch1-2-x86_64-with-glibc2.42
+                program: /home/polemaster/uni/semester7/dnn/phase3/sweep_runner.py
+                python: CPython 3.13.7
+                root: /home/polemaster/uni/semester7/dnn/phase3
+                startedAt: "2025-12-05T13:57:32.103355Z"
+                writerId: c7ptguv8wlkb0bc5r7ice8d2y0j5o8y5
+        m:
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "2": epoch/*
+              "5": 1
+              "6":
+                - 1
+              "7": []
+        python_version: 3.13.7
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 2
+                - 7
+                - 14
+                - 38
+                - 62
+            "4": 3.13.7
+            "5": 0.23.1
+            "12": 0.23.1
+            "13": linux-x86_64
+batch_size:
+    value: 64
+dense_units:
+    value: 128
+dropout:
+    value: 0.4708089116396399
+epochs:
+    value: 15
+learning_rate:
+    value: 0.002803206362825291
+optimizer:
+    value: rmsprop
+rotation_range:
+    value: 6
+zoom_range:
+    value: 0.0054874196433883915

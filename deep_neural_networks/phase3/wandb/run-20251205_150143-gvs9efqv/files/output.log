@@ -1,0 +1,63 @@
+Epoch 1/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 29ms/step - accuracy: 0.3145 - loss: 2.3610
+Epoch 1: val_accuracy improved from None to 0.19046, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m13s[0m 37ms/step - accuracy: 0.5057 - loss: 1.5801 - val_accuracy: 0.1905 - val_loss: 5.1231 - learning_rate: 0.0036
+Epoch 2/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.8008 - loss: 0.5674
+Epoch 2: val_accuracy improved from 0.19046 to 0.49108, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 18ms/step - accuracy: 0.8310 - loss: 0.4831 - val_accuracy: 0.4911 - val_loss: 1.8041 - learning_rate: 0.0036
+Epoch 3/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.8938 - loss: 0.3185
+Epoch 3: val_accuracy improved from 0.49108 to 0.94046, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9065 - loss: 0.2753 - val_accuracy: 0.9405 - val_loss: 0.1707 - learning_rate: 0.0036
+Epoch 4/15
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 16ms/step - accuracy: 0.9287 - loss: 0.2107
+Epoch 4: val_accuracy improved from 0.94046 to 0.96584, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9326 - loss: 0.1985 - val_accuracy: 0.9658 - val_loss: 0.0977 - learning_rate: 0.0036
+Epoch 5/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9461 - loss: 0.1644
+Epoch 5: val_accuracy did not improve from 0.96584
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9485 - loss: 0.1548 - val_accuracy: 0.8846 - val_loss: 0.4014 - learning_rate: 0.0036
+Epoch 6/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9540 - loss: 0.1398
+Epoch 6: val_accuracy improved from 0.96584 to 0.98912, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9547 - loss: 0.1352 - val_accuracy: 0.9891 - val_loss: 0.0284 - learning_rate: 0.0036
+Epoch 7/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9612 - loss: 0.1140
+Epoch 7: val_accuracy did not improve from 0.98912
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9614 - loss: 0.1163 - val_accuracy: 0.9890 - val_loss: 0.0285 - learning_rate: 0.0036
+Epoch 8/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9651 - loss: 0.1099
+Epoch 8: val_accuracy did not improve from 0.98912
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9662 - loss: 0.1046 - val_accuracy: 0.8475 - val_loss: 0.7010 - learning_rate: 0.0036
+Epoch 9/15
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 16ms/step - accuracy: 0.9776 - loss: 0.0667
+Epoch 9: val_accuracy did not improve from 0.98912
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9806 - loss: 0.0578 - val_accuracy: 0.9827 - val_loss: 0.0473 - learning_rate: 0.0018
+Epoch 10/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9827 - loss: 0.0501
+Epoch 10: val_accuracy improved from 0.98912 to 0.98996, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9832 - loss: 0.0494 - val_accuracy: 0.9900 - val_loss: 0.0290 - learning_rate: 0.0018
+Epoch 11/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9854 - loss: 0.0435
+Epoch 11: val_accuracy improved from 0.98996 to 0.99958, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 18ms/step - accuracy: 0.9870 - loss: 0.0381 - val_accuracy: 0.9996 - val_loss: 0.0022 - learning_rate: 8.8753e-04
+Epoch 12/15
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 16ms/step - accuracy: 0.9889 - loss: 0.0352
+Epoch 12: val_accuracy improved from 0.99958 to 0.99972, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9885 - loss: 0.0348 - val_accuracy: 0.9997 - val_loss: 0.0011 - learning_rate: 8.8753e-04
+Epoch 13/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9885 - loss: 0.0337
+Epoch 13: val_accuracy improved from 0.99972 to 0.99986, saving model to model-gvs9efqv.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9897 - loss: 0.0315 - val_accuracy: 0.9999 - val_loss: 8.4178e-04 - learning_rate: 8.8753e-04
+Epoch 14/15
+[1m213/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9914 - loss: 0.0276
+Epoch 14: val_accuracy did not improve from 0.99986
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9911 - loss: 0.0273 - val_accuracy: 0.9816 - val_loss: 0.0456 - learning_rate: 8.8753e-04
+Epoch 15/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9905 - loss: 0.0279
+Epoch 15: val_accuracy did not improve from 0.99986
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9915 - loss: 0.0266 - val_accuracy: 0.9982 - val_loss: 0.0064 - learning_rate: 8.8753e-04
+Evaluating on Custom Test Set
+[1m3/3[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 291ms/step - accuracy: 0.5158 - loss: 3.7483
+Uploading model with accuracy 0.9998605847358704

@@ -1,0 +1,63 @@
+Epoch 1/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 28ms/step - accuracy: 0.3003 - loss: 2.3900
+Epoch 1: val_accuracy improved from None to 0.04643, saving model to model-gt2kutpp.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m11s[0m 34ms/step - accuracy: 0.4932 - loss: 1.6185 - val_accuracy: 0.0464 - val_loss: 4.9497 - learning_rate: 0.0017
+Epoch 2/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.8046 - loss: 0.5880
+Epoch 2: val_accuracy improved from 0.04643 to 0.57529, saving model to model-gt2kutpp.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.8364 - loss: 0.4870 - val_accuracy: 0.5753 - val_loss: 1.4225 - learning_rate: 0.0017
+Epoch 3/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.8932 - loss: 0.3118
+Epoch 3: val_accuracy improved from 0.57529 to 0.89752, saving model to model-gt2kutpp.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9079 - loss: 0.2729 - val_accuracy: 0.8975 - val_loss: 0.2889 - learning_rate: 0.0017
+Epoch 4/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9285 - loss: 0.2116
+Epoch 4: val_accuracy improved from 0.89752 to 0.98843, saving model to model-gt2kutpp.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9354 - loss: 0.1919 - val_accuracy: 0.9884 - val_loss: 0.0576 - learning_rate: 0.0017
+Epoch 5/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9527 - loss: 0.1412
+Epoch 5: val_accuracy did not improve from 0.98843
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9541 - loss: 0.1387 - val_accuracy: 0.9480 - val_loss: 0.1861 - learning_rate: 0.0017
+Epoch 6/15
+[1m213/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9595 - loss: 0.1182
+Epoch 6: val_accuracy did not improve from 0.98843
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9618 - loss: 0.1164 - val_accuracy: 0.8839 - val_loss: 0.3199 - learning_rate: 0.0017
+Epoch 7/15
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 16ms/step - accuracy: 0.9728 - loss: 0.0794
+Epoch 7: val_accuracy improved from 0.98843 to 0.99345, saving model to model-gt2kutpp.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9764 - loss: 0.0704 - val_accuracy: 0.9934 - val_loss: 0.0228 - learning_rate: 8.2935e-04
+Epoch 8/15
+[1m212/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9792 - loss: 0.0626
+Epoch 8: val_accuracy improved from 0.99345 to 0.99554, saving model to model-gt2kutpp.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9802 - loss: 0.0604 - val_accuracy: 0.9955 - val_loss: 0.0104 - learning_rate: 8.2935e-04
+Epoch 9/15
+[1m213/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9803 - loss: 0.0603
+Epoch 9: val_accuracy did not improve from 0.99554
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9807 - loss: 0.0594 - val_accuracy: 0.9596 - val_loss: 0.1012 - learning_rate: 8.2935e-04
+Epoch 10/15
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 17ms/step - accuracy: 0.9825 - loss: 0.0531
+Epoch 10: val_accuracy did not improve from 0.99554
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 18ms/step - accuracy: 0.9820 - loss: 0.0532 - val_accuracy: 0.9472 - val_loss: 0.2091 - learning_rate: 8.2935e-04
+Epoch 11/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9857 - loss: 0.0428
+Epoch 11: val_accuracy improved from 0.99554 to 1.00000, saving model to model-gt2kutpp.keras
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9866 - loss: 0.0408 - val_accuracy: 1.0000 - val_loss: 0.0010 - learning_rate: 4.1467e-04
+Epoch 12/15
+[1m213/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 17ms/step - accuracy: 0.9882 - loss: 0.0359
+Epoch 12: val_accuracy did not improve from 1.00000
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9879 - loss: 0.0372 - val_accuracy: 0.9999 - val_loss: 0.0028 - learning_rate: 4.1467e-04
+Epoch 13/15
+[1m213/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 17ms/step - accuracy: 0.9899 - loss: 0.0335
+Epoch 13: val_accuracy did not improve from 1.00000
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9890 - loss: 0.0353 - val_accuracy: 0.9925 - val_loss: 0.0223 - learning_rate: 4.1467e-04
+Epoch 14/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9902 - loss: 0.0309
+Epoch 14: val_accuracy did not improve from 1.00000
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9896 - loss: 0.0318 - val_accuracy: 0.9999 - val_loss: 0.0016 - learning_rate: 2.0734e-04
+Epoch 15/15
+[1m214/215[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 16ms/step - accuracy: 0.9904 - loss: 0.0287
+Epoch 15: val_accuracy did not improve from 1.00000
+[1m215/215[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 17ms/step - accuracy: 0.9909 - loss: 0.0273 - val_accuracy: 1.0000 - val_loss: 0.0017 - learning_rate: 2.0734e-04
+Evaluating on Custom Test Set
+[1m3/3[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 289ms/step - accuracy: 0.5158 - loss: 2.4020
+Uploading model with accuracy 1.0

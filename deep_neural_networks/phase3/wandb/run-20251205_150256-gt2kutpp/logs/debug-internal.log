@@ -1,0 +1,12 @@
+{"time":"2025-12-05T15:02:56.802396164+01:00","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2025-12-05T15:02:57.14611689+01:00","level":"INFO","msg":"stream: created new stream","id":"gt2kutpp"}
+{"time":"2025-12-05T15:02:57.14624512+01:00","level":"INFO","msg":"handler: started","stream_id":"gt2kutpp"}
+{"time":"2025-12-05T15:02:57.146367414+01:00","level":"INFO","msg":"stream: started","id":"gt2kutpp"}
+{"time":"2025-12-05T15:02:57.146388785+01:00","level":"INFO","msg":"writer: started","stream_id":"gt2kutpp"}
+{"time":"2025-12-05T15:02:57.146398284+01:00","level":"INFO","msg":"sender: started","stream_id":"gt2kutpp"}
+{"time":"2025-12-05T15:04:06.377481711+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-05T15:04:06.642229331+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-05T15:04:06.649400717+01:00","level":"INFO","msg":"stream: closing","id":"gt2kutpp"}
+{"time":"2025-12-05T15:04:06.649428025+01:00","level":"INFO","msg":"handler: closed","stream_id":"gt2kutpp"}
+{"time":"2025-12-05T15:04:06.649819839+01:00","level":"INFO","msg":"sender: closed","stream_id":"gt2kutpp"}
+{"time":"2025-12-05T15:04:06.649862582+01:00","level":"INFO","msg":"stream: closed","id":"gt2kutpp"}
