@@ -1,0 +1,7 @@
+SELECT ?movie ?country ?sea ?date WHERE {
+  ?movie dbpedia2:genre <http://dbpedia.org/resource/Science_fiction> .
+  ?movie dbpedia2:country ?country
+  OPTIONAL { ?movie dbpedia2:numSeasons ?sea . }
+  OPTIONAL { ?movie dbpedia2:released ?date . }
+  OPTIONAL { dbpedia2:starring [http] . }
+}
